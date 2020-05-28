@@ -1,5 +1,5 @@
 File Manager
-===========
+===========downloads
 [![Backers on Open Collective](https://opencollective.com/openintents/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/openintents/sponsors/badge.svg)](#sponsors) 
 
